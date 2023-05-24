@@ -2,7 +2,7 @@
 
 Sophisticated docker builds for parent projects [oobabooga/GPTQ-for-Llama](https://github.com/oobabooga/GPTQ-for-LLaMa) and [qwopqwop200/GPTQ-for-Llama](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 
-![example workflow](https://github.com/localagi/llama-gptq-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)
+![example workflow](https://github.com/localagi/GPTQ-for-Llama-docker/actions/workflows/publish-docker.yml/badge.svg?branch=main)
 
 Easy setup. Compatible. Tweakable. Scaleable.
 
