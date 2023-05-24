@@ -1,0 +1,5 @@
+version: "3.8"
+services:
+
+  llama-gptq:
+    image: localagi/gptq-for-llama:main${LLAMA_GPTQ_FLAVOR}
