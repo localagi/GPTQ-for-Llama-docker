@@ -1,4 +1,4 @@
-# Llama-GPTQ-docker
+# GPTQ-for-Llama-docker
 
 Sophisticated docker builds for parent projects [oobabooga/GPTQ-for-Llama](https://github.com/oobabooga/GPTQ-for-LLaMa) and [qwopqwop200/GPTQ-for-Llama](https://github.com/qwopqwop200/GPTQ-for-LLaMa)
 
